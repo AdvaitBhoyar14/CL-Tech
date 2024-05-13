@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CL-Tech/static/css/main.04f354d4.css",
+    "main.js": "/CL-Tech/static/js/main.bd054930.js",
+    "static/js/453.be2ca139.chunk.js": "/CL-Tech/static/js/453.be2ca139.chunk.js",
+    "static/media/absec.jpg": "/CL-Tech/static/media/absec.bb21c2f79ef3dcb3a223.jpg",
+    "static/media/ppc.jpg": "/CL-Tech/static/media/ppc.749bcb6cffe0e7738ff1.jpg",
+    "static/media/content-creation.jpg": "/CL-Tech/static/media/content-creation.987d995f5a98badc128a.jpg",
+    "static/media/email-marketing.jpg": "/CL-Tech/static/media/email-marketing.f01e9083470e4376f6f4.jpg",
+    "static/media/seo.jpg": "/CL-Tech/static/media/seo.dad3b8aa9edc31a2fedd.jpg",
+    "static/media/whatsapp.png": "/CL-Tech/static/media/whatsapp.a556c3293e9820ef29f2.png",
+    "static/media/video-editing.jpg": "/CL-Tech/static/media/video-editing.429262b5d2568e6743ce.jpg",
+    "static/media/lin.png": "/CL-Tech/static/media/lin.ae2edaa13570d094e6a3.png",
+    "static/media/social-media.jpg": "/CL-Tech/static/media/social-media.4815eace7c604066e010.jpg",
+    "static/media/ig.png": "/CL-Tech/static/media/ig.ce99cf1fc12cfe6edd77.png",
+    "index.html": "/CL-Tech/index.html",
+    "main.04f354d4.css.map": "/CL-Tech/static/css/main.04f354d4.css.map",
+    "main.bd054930.js.map": "/CL-Tech/static/js/main.bd054930.js.map",
+    "453.be2ca139.chunk.js.map": "/CL-Tech/static/js/453.be2ca139.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f354d4.css",
+    "static/js/main.bd054930.js"
+  ]
+}
