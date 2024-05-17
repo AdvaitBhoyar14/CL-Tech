@@ -1,26 +1,18 @@
 import React from 'react';
+import video from './assets/ba.mp4';
 
 const Banner = () => {
   return (
-    <div className="bg-gray-900 py-20">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center">
-          <h2 className="text-4xl font-extrabold text-white sm:text-5xl sm:tracking-tight lg:text-6xl">
-            Welcome to CL Tech
-          </h2>
-          <p className="max-w-xl mx-auto mt-5 text-xl text-gray-300">
-            Innovative solutions for your business needs.
-          </p>
-          <div className="mt-10">
-            <a
-              href="#services"
-              className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
-            >
-              Learn More
-            </a>
-          </div>
-        </div>
+    <div className="bg-gray-900 h-screen relative">
+      <div className="absolute inset-0 z-10 flex flex-col items-center justify-center text-center">
+        <h2 className="text-4xl font-extrabold text-white sm:text-5xl sm:tracking-tight lg:text-6xl">
+          Welcome to CL Tech
+        </h2>
+        <p className="max-w-md mt-3 text-xl text-white">
+          Innovative solutions for your business needs.
+        </p>
       </div>
+      <video src={video} autoPlay loop muted className="w-full h-full object-cover absolute inset-0" />
     </div>
   );
 };
